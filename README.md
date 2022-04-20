@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Muraree</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
 
 
 
